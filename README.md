@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivam-attri-85/LeetCode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/shivam-attri-85/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/shivam-attri-85/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/shivam-attri-85/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
