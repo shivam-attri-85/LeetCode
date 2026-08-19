@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivam-attri-85/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,9 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/0078-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivam-attri-85/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivam-attri-85/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
