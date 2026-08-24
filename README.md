@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shivam-attri-85/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivam-attri-85/LeetCode/tree/master/0079-word-search) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivam-attri-85/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
@@ -55,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/shivam-attri-85/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivam-attri-85/LeetCode/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/shivam-attri-85/LeetCode/tree/master/0784-letter-case-permutation) |
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shivam-attri-85/LeetCode/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/shivam-attri-85/LeetCode/tree/master/0784-letter-case-permutation) |
 ## Simulation
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shivam-attri-85/LeetCode/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -89,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/shivam-attri-85/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
