@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivam-attri-85/LeetCode/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/shivam-attri-85/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivam-attri-85/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/shivam-attri-85/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shivam-attri-85/LeetCode/tree/master/0070-climbing-stairs) |
+| [0494-target-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/shivam-attri-85/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivam-attri-85/LeetCode/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/shivam-attri-85/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/shivam-attri-85/LeetCode/tree/master/0980-unique-paths-iii) |
 ## String
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivam-attri-85/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
