@@ -25,8 +25,6 @@ public:
     }
    // idx1++;
     //idx2++;
-    int maxidx=max(idx1,idx2);
-    int minidx=min(idx1,idx2);
-    return min(min(maxidx+1,n-minidx),n-maxidx+minidx+1);
+    return min(min(max(idx1,idx2)+1,n-min(idx1,idx2)),n-max(idx1,idx2)+min(idx1,idx2)+1);
     }
 };
