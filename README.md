@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/shivam-attri-85/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/shivam-attri-85/LeetCode/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivam-attri-85/LeetCode/tree/master/0079-word-search) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam-attri-85/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/shivam-attri-85/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/shivam-attri-85/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivam-attri-85/LeetCode/tree/master/0079-word-search) |
