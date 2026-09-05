@@ -18,7 +18,7 @@ public:
         q.push(root);
         while(!q.empty()){
             int lvlsize=q.size();
-            vector<int>tmp(lvlsize);
+            // vector<int>tmp(lvlsize);
             int sum=0;
             while(lvlsize--){
                 TreeNode* t=q.front();
@@ -45,6 +45,6 @@ public:
             i++;
         }
 
-    return ans+1;        
+     return ans+1; //    level 1 based h    
     }
 };
