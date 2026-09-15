@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shivam-attri-85/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shivam-attri-85/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivam-attri-85/LeetCode/tree/master/0070-climbing-stairs) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivam-attri-85/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shivam-attri-85/LeetCode/tree/master/0050-powx-n) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivam-attri-85/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivam-attri-85/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
