@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivam-attri-85/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/shivam-attri-85/LeetCode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/shivam-attri-85/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/shivam-attri-85/LeetCode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0494-target-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shivam-attri-85/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/shivam-attri-85/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/shivam-attri-85/LeetCode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0494-target-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Stack
