@@ -12,19 +12,22 @@
 class Solution {
 public:
 int getleft(TreeNode*node){
+
     int lh=0;
-    while(node){
+    TreeNode*temp=node;
+    while(temp){
         lh++;
-        node=node->left;
+        temp=temp->left;
     }
     return lh;
 }
 
 int getright(TreeNode*node){
     int rh=0;
-    while(node){
+    TreeNode*temp=node;
+    while(temp){
         rh++;
-        node=node->right;
+        temp=temp->right;
     }
     return rh;
 }
