@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-attri-85/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0814-binary-tree-pruning](https://github.com/shivam-attri-85/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivam-attri-85/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-attri-85/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/shivam-attri-85/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivam-attri-85/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-attri-85/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/shivam-attri-85/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivam-attri-85/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
