@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/shivam-attri-85/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/shivam-attri-85/LeetCode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0494-target-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/shivam-attri-85/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0980-unique-paths-iii](https://github.com/shivam-attri-85/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/shivam-attri-85/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivam-attri-85/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -321,5 +322,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shivam-attri-85/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam-attri-85/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
