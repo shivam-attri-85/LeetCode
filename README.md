@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shivam-attri-85/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivam-attri-85/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivam-attri-85/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shivam-attri-85/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shivam-attri-85/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0389-find-the-difference](https://github.com/shivam-attri-85/LeetCode/tree/master/0389-find-the-difference) |
 | [0784-letter-case-permutation](https://github.com/shivam-attri-85/LeetCode/tree/master/0784-letter-case-permutation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shivam-attri-85/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam-attri-85/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivam-attri-85/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shivam-attri-85/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivam-attri-85/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Tree
 |  |
@@ -342,4 +345,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam-attri-85/LeetCode/tree/master/0022-generate-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shivam-attri-85/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
