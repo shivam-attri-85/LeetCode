@@ -33,7 +33,7 @@ public:
             if(mpp[nums[i-k]]==0){
                 mpp.erase(nums[i-k]);
             }
-            if(i>k-1 &&mpp.size()==k){
+            if(mpp.size()==k){
             ans=max(sum,ans);
         }
         }
