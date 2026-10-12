@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam-attri-85/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivam-attri-85/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivam-attri-85/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-attri-85/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivam-attri-85/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shivam-attri-85/LeetCode/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-attri-85/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-attri-85/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam-attri-85/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shivam-attri-85/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivam-attri-85/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam-attri-85/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-attri-85/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam-attri-85/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bracket Sequences
 |  |
