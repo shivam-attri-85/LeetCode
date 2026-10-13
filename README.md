@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivam-attri-85/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivam-attri-85/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -217,11 +218,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/shivam-attri-85/LeetCode/tree/master/0389-find-the-difference) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivam-attri-85/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shivam-attri-85/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivam-attri-85/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivam-attri-85/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Tree
 |  |
 | ------- |
