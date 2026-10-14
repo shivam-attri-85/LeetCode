@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/shivam-attri-85/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/shivam-attri-85/LeetCode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/shivam-attri-85/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam-attri-85/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shivam-attri-85/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/shivam-attri-85/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/shivam-attri-85/LeetCode/tree/master/0198-house-robber) |
+| [0410-split-array-largest-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0494-target-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Stack
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shivam-attri-85/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivam-attri-85/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivam-attri-85/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam-attri-85/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam-attri-85/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0410-split-array-largest-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-attri-85/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## DP on Trees
