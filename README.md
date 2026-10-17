@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam-attri-85/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/shivam-attri-85/LeetCode/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-attri-85/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -376,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam-attri-85/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shivam-attri-85/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
