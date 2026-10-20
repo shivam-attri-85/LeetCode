@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/shivam-attri-85/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/shivam-attri-85/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivam-attri-85/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2235-add-two-integers](https://github.com/shivam-attri-85/LeetCode/tree/master/2235-add-two-integers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3871-count-commas-in-range-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
