@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shivam-attri-85/LeetCode/tree/master/0389-find-the-difference) |
 | [0784-letter-case-permutation](https://github.com/shivam-attri-85/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shivam-attri-85/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shivam-attri-85/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/shivam-attri-85/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam-attri-85/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivam-attri-85/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shivam-attri-85/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivam-attri-85/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam-attri-85/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shivam-attri-85/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-attri-85/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam-attri-85/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bracket Sequences
