@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/shivam-attri-85/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/shivam-attri-85/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-attri-85/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/shivam-attri-85/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam-attri-85/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shivam-attri-85/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shivam-attri-85/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivam-attri-85/LeetCode/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-attri-85/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivam-attri-85/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/shivam-attri-85/LeetCode/tree/master/0836-rectangle-overlap) |
