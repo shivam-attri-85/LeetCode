@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shivam-attri-85/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/shivam-attri-85/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shivam-attri-85/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/shivam-attri-85/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivam-attri-85/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/shivam-attri-85/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shivam-attri-85/LeetCode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-attri-85/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shivam-attri-85/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shivam-attri-85/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivam-attri-85/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/shivam-attri-85/LeetCode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-attri-85/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/0633-sum-of-square-numbers) |
