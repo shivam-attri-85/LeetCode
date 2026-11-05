@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shivam-attri-85/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivam-attri-85/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/shivam-attri-85/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shivam-attri-85/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-attri-85/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivam-attri-85/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivam-attri-85/LeetCode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivam-attri-85/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam-attri-85/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
