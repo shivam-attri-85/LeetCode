@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivam-attri-85/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivam-attri-85/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam-attri-85/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1748-sum-of-unique-elements](https://github.com/shivam-attri-85/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivam-attri-85/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1882-process-tasks-using-servers](https://github.com/shivam-attri-85/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivam-attri-85/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shivam-attri-85/LeetCode/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivam-attri-85/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1748-sum-of-unique-elements](https://github.com/shivam-attri-85/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-attri-85/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2747-count-zero-request-servers](https://github.com/shivam-attri-85/LeetCode/tree/master/2747-count-zero-request-servers) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/shivam-attri-85/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1748-sum-of-unique-elements](https://github.com/shivam-attri-85/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/shivam-attri-85/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Union-Find
 |  |
