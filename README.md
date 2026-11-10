@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivam-attri-85/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivam-attri-85/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivam-attri-85/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shivam-attri-85/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0494-target-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivam-attri-85/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
