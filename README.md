@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/shivam-attri-85/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1267-count-servers-that-communicate](https://github.com/shivam-attri-85/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivam-attri-85/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivam-attri-85/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam-attri-85/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1748-sum-of-unique-elements](https://github.com/shivam-attri-85/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivam-attri-85/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/shivam-attri-85/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivam-attri-85/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/shivam-attri-85/LeetCode/tree/master/2235-add-two-integers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/shivam-attri-85/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivam-attri-85/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/shivam-attri-85/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -476,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivam-attri-85/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivam-attri-85/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
