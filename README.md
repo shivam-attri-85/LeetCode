@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/shivam-attri-85/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shivam-attri-85/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/shivam-attri-85/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivam-attri-85/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/shivam-attri-85/LeetCode/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivam-attri-85/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivam-attri-85/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shivam-attri-85/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shivam-attri-85/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Tree
 |  |
 | ------- |
